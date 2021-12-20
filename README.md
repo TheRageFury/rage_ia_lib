@@ -1,2 +1,2 @@
 # rage_ia_lib
-This a Rust-written AI library 
+This is a Rust-written AI library 
